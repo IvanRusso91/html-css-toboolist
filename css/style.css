@@ -23,11 +23,10 @@ div img{
   vertical-align: middle;
 }
 
-
 h1{
   display: inline-block;
-  font-size: 36px;
-  
+  font-size: 36px; 
+  vertical-align: middle;
 }
 
 /* /HEADER */
@@ -44,7 +43,7 @@ h1{
 }
 
 .banner{
-  padding: 5px;
+  padding: 5px 15px;
   border-radius: 5px;
   text-align: center;
   font-size: 12px;
@@ -96,6 +95,10 @@ p{
   margin-left: 5px; 
 }
 
+.simbol{
+  padding-right: 5px;
+}
+
 .curtain{
   margin-top: 25px;
   color: rgb(68, 72, 81);
@@ -105,6 +108,7 @@ p{
   margin-top: 20px;
 }
 
+/* Bottoni e colori */
 .bottoni{
   font-size: 10px;
   color: white;
@@ -122,6 +126,10 @@ p{
   background-color:rgb(71, 173, 241);
 }
 
+#edit-3{
+  background-color:rgb(71, 173, 241);
+}
+
 #Q1{
   background-color: rgb(156, 114, 228);
 }
@@ -133,3 +141,14 @@ p{
 #mob{
   background-color: rgb(242, 158, 51);
 }
+
+#web{
+  background-color: rgb(216, 99, 161);
+}
+
+#sal{
+  background-color: rgb(176, 201, 38);
+}
+
+/* /Bottoni e colore */
+/* /MAIN */
