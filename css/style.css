@@ -23,7 +23,7 @@ div img{
   vertical-align: middle;
 }
 
-h1{
+#titolo{
   display: inline-block;
   font-size: 36px; 
   vertical-align: middle;
@@ -49,6 +49,7 @@ h1{
   font-size: 12px;
   border-width: 1px;
   border-color: rgb(246, 248, 249);
+  cursor: pointer;
 }
 
 
@@ -108,8 +109,9 @@ p{
   margin-top: 20px;
 }
 
-/* Bottoni e colori */
-.bottoni{
+/* element e colori */
+
+.element{
   font-size: 10px;
   color: white;
   border-width: 1px;
@@ -118,16 +120,8 @@ p{
   padding: 4px 8px;
 }
 
-#edit{
+.edit{
   background-color:rgb(71, 173, 241) ;
-}
-
-#edit-2{
-  background-color:rgb(71, 173, 241);
-}
-
-#edit-3{
-  background-color:rgb(71, 173, 241);
 }
 
 #Q1{
