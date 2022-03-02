@@ -124,23 +124,23 @@ p{
   background-color:rgb(71, 173, 241) ;
 }
 
-#Q1{
+.Q1{
   background-color: rgb(156, 114, 228);
 }
 
-#rec{
+.rec{
   background-color: rgb(100,192, 169);
 }
 
-#mob{
+.mob{
   background-color: rgb(242, 158, 51);
 }
 
-#web{
+.web{
   background-color: rgb(216, 99, 161);
 }
 
-#sal{
+.sal{
   background-color: rgb(176, 201, 38);
 }
 
